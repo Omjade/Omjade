@@ -9,8 +9,8 @@ I'm an aspiring AI & Data Science Engineer currently studying B.Tech in Artifici
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/om-jade-341b19216/)
-- [Twitter]([your-twitter-url](https://x.com/omjade2854?t=pfYc99BT4hE18Oh89Id_Ug&s=09))
-- [Medium]([your-medium-url](https://medium.com/@omjade2854))
+- [Twitter](https://x.com/omjade2854?t=pfYc99BT4hE18Oh89Id_Ug&s=09)
+- [Medium](https://medium.com/@omjade2854])
 
 Feel free to explore my repositories and contribute to the projects. I'm always open to collaboration and new opportunities!
 
