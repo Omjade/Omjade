@@ -50,8 +50,8 @@ _Tech Stack: Next.js, Gemini API, PostgreSQL, Clerk_
 A Retrieval-Augmented Generation chatbot for accurate, context-aware responses using vector databases.  
 _Tech Stack: Python, Streamlit, LangChain, LangGraph, FAISS_
 
-#### 🔹 Vendor Performance Analytics Dashboard  
-Built a full BI pipeline to evaluate vendor performance using SQL, Python, Apache Spark, and Power BI.  
+#### 🔹 [IPL Performance Analytics](https://github.com/Omjade/IPL-Performance-Data-Analytics) 
+Built a full BI pipeline to evaluate IPL performance using SQL, Python, Apache Spark, and Power BI.  
 _Tech Stack: MySQL, Python, Power BI, Databricks_
 
 ---
