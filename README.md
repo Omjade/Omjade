@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Om Jade! 👋</h1>
 
 <p align="center">
-  🎓 B.Tech in Artificial Intelligence & Data Science &nbsp;|&nbsp; 🤖 AI & GenAI Enthusiast &nbsp;|&nbsp; 💻 Aspiring Software Engineer
+  🎓 B.Tech in Artificial Intelligence & Data Science &nbsp;|&nbsp; 🤖 GenAI & Data Enthusiast &nbsp;|&nbsp; 💻 Aspiring Software Engineer
 </p>
 
 ---
