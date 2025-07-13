@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a passionate and results-driven final-year B.Tech student majoring in **Artificial Intelligence and Data Science**. I thrive at the intersection of software engineering, AI, and data analytics — driven by the vision of building impactful, intelligent systems that solve real-world problems.
+I'm a passionate and results-driven final-year B.Tech student majoring in ** Artificial Intelligence and Data Science **. I thrive at the intersection of software engineering, AI, and data analytics — driven by the vision of building impactful, intelligent systems that solve real-world problems.
 
 🔍 I enjoy working on:
 - End-to-end **data-driven applications**
@@ -53,7 +53,7 @@ _Tech Stack: Python, Streamlit, LangChain, LangGraph, FAISS_
 #### 🔹 [IPL Performance Analytics](https://github.com/Omjade/IPL-Performance-Data-Analytics) 
 Built a full BI pipeline to evaluate IPL performance using SQL, Python, Apache Spark, and Power BI.  
 _Tech Stack: MySQL, Python, Power BI, Databricks_
-
+-
 ---
 
 ### 🌐 Connect with Me
