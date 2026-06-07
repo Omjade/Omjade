@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080818,50:0032cc,100:050510&height=200&section=header&text=Om%20Vinayak%20Jade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Building%20Production%20Grade%20Agentic%20AI%20%26%20Data%20Systems&descAlignY=58&descSize=15&descColor=60a5fa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07081a,40:0a1a6e,70:1a3aff,100:060c1e&height=200&section=header&text=Om%20Vinayak%20Jade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Building%20Production%20Grade%20Agentic%20AI%20%26%20Data%20Systems&descAlignY=58&descSize=15&descColor=7eb8ff" />
 
 <br/>
 
@@ -25,11 +25,8 @@ Final-year **B.Tech in AI & Data Science** at K.K. Wagh Institute, Nashik (CGPA 
 
 ```python
 om_jade = {
-
-    # ── Identity ──────────────────────────────────────────────────────────────
     "role"         : "Generative AI Engineer | Data Scientist | ML Engineer",
 
-    # ── Tech Stacks ───────────────────────────────────────────────────────────
     "genai_stack"  : ["LLMs", "Agentic AI", "RAG", "Prompt Engineering",
                       "LangChain", "LangGraph", "n8n", "FastAPI"],
 
@@ -47,11 +44,9 @@ om_jade = {
     "cloud"        : ["AWS (S3, EC2, Lambda, RDS, Redshift)",
                       "Docker", "RunPod", "GitHub", "CI/CD"],
 
-    # ── Status ────────────────────────────────────────────────────────────────
     "currently"    : "Building production-grade agentic AI systems @ Aqeeq Technologies",
-    "open_to"      : "Full-time roles in GenAI · Agentic AI · ML · Data Science · Data Engineering",
-    "location"     : "Nashik, Maharashtra, India | Remote Ready",
 
+    "open_to"      : "Full-time roles in GenAI · Agentic AI · ML · Data Science · Data Engineering",
 }
 ```
 
@@ -59,42 +54,40 @@ om_jade = {
 
 ## What I Build
 
-```
-**Generative AI & Agentic Systems**
-  LLM pipelines · RAG systems · Agentic workflows · Prompt engineering
-  LangChain / LangGraph orchestration · Claude & OpenAI APIs · n8n automation
+### 🤖 Generative AI & Agentic Systems
+LLM pipelines · RAG systems · Agentic workflows · Prompt engineering
+LangChain / LangGraph orchestration · Claude & OpenAI APIs · n8n automation
 
-**Machine Learning & Data Science**
-  End-to-end ML pipelines · Feature engineering · Model evaluation & MLOps
-  NLP · Deep Learning · Statistical analysis · A/B Testing · EDA
+### 🧠 Machine Learning & Data Science
+End-to-end ML pipelines · Feature engineering · Model evaluation & MLOps
+NLP · Deep Learning · Statistical analysis · A/B Testing · EDA
 
-**Data Engineering & Analytics**
-  ETL/ELT pipelines · Apache Spark · Airflow · Snowflake · dbt
-  SQL (Advanced) · Power BI dashboards · KPI analytics · Data modeling
+### 🏗️ Data Engineering & Analytics
+ETL/ELT pipelines · Apache Spark · Airflow · Snowflake · dbt
+SQL (Advanced) · Power BI dashboards · KPI analytics · Data modeling
 
-**Backend & Infrastructure**
-  FastAPI microservices · REST APIs · Docker · AWS · CI/CD · Vector DB / FAISS
-```
+### ⚙️ Backend & Infrastructure
+FastAPI microservices · REST APIs · Docker · AWS · CI/CD · Vector DB / FAISS
 
 ---
 
 ## Experience
 
-### 🏢 Aqeeq Technologies, Nashik — AI/ML Software Engineer Intern
+### 🔷 AI/ML Software Engineer Intern — Aqeeq Technologies, Nashik
 `Jan 2026 – Present`
 
 Researching, prototyping, and shipping production-grade GenAI systems — LLM pipelines, agentic workflows, FastAPI microservices, and AI-powered backend integrations across real enterprise use cases.
 
 ---
 
-### 🌐 Save Ancient Studies Alliance, USA — Research Intern, AI & Data
+### 🔷 Research Intern, AI & Data — Save Ancient Studies Alliance, USA
 `May 2025 – Nov 2025`
 
 Designed ETL workflows and data pipelines using Python and SQL. Built Power BI dashboards to surface KPI-driven insights for globally distributed research teams — improving data processing efficiency by 5.4%.
 
 ---
 
-### 🎓 AICTE — AI Intern
+### 🔷 AI Intern — AICTE
 `Jan 2025 – Feb 2025`
 
 Built MediGenie — a GenAI healthcare symptom checker using LangChain, OpenAI, Hugging Face, and Streamlit with RAG-based real-time patient interaction.
@@ -182,6 +175,6 @@ Built MediGenie — a GenAI healthcare symptom checker using LangChain, OpenAI, 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-jade)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omjade2854@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080818,50:0032cc,100:050510&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07081a,40:0a1a6e,70:1a3aff,100:060c1e&height=100&section=footer" />
 
 </div>
