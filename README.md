@@ -54,19 +54,19 @@ om_jade = {
 
 ## What I Build
 
-### 🤖 Generative AI & Agentic Systems
+###  Generative AI & Agentic Systems
 LLM pipelines · RAG systems · Agentic workflows · Prompt engineering
 LangChain / LangGraph orchestration · Claude & OpenAI APIs · n8n automation
 
-### 🧠 Machine Learning & Data Science
+###  Machine Learning & Data Science
 End-to-end ML pipelines · Feature engineering · Model evaluation & MLOps
 NLP · Deep Learning · Statistical analysis · A/B Testing · EDA
 
-### 🏗️ Data Engineering & Analytics
+###  Data Engineering & Analytics
 ETL/ELT pipelines · Apache Spark · Airflow · Snowflake · dbt
 SQL (Advanced) · Power BI dashboards · KPI analytics · Data modeling
 
-### ⚙️ Backend & Infrastructure
+###  Backend & Infrastructure
 FastAPI microservices · REST APIs · Docker · AWS · CI/CD · Vector DB / FAISS
 
 ---
