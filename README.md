@@ -146,7 +146,7 @@ Built MediGenie — a GenAI healthcare symptom checker using LangChain, OpenAI, 
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | **SmartBiz AI** | No-code BI & analytics platform — ML-driven insights, conversational AI, adopted by 6+ businesses. Research published 2025. | Python · React · OpenAI · Supabase · PostgreSQL | [GitHub](https://github.com/Omjade/SmartBizAI) |
-| **MockMaster** | AI mock interview platform — role-specific questions, personalised feedback. Used by 15+ students. | Next.js · Gemini API · PostgreSQL · Clerk | [GitHub](https://github.com/Omjade/MockMaster) |
+| **MockMaster** | AI mock interview platform — role-specific questions, personalised feedback. Used by 15+ students. | Next.js · Gemini API · PostgreSQL · Clerk | [GitHub](https://github.com/Omjade/MockMaster-Ai-Interview) |
 | **CortexRAG** | RAG chatbot with context-aware reasoning using vector databases and LangGraph. | Python · LangChain · LangGraph · FAISS · Streamlit | [GitHub](https://github.com/Omjade/RAG-AI-Reasoning-Chatbot) |
 | **IPL Analytics** | End-to-end data pipeline analysing 5,000+ match records via Spark and Power BI dashboards. | MySQL · Apache Spark · Databricks · Power BI | [GitHub](https://github.com/Omjade/IPL-Performance-Data-Analytics) |
 
