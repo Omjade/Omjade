@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07081a,40:0a1a6e,70:1a3aff,100:060c1e&height=200&section=header&text=Om%20Vinayak%20Jade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Building%20Production%20Grade%20Agentic%20AI%20%26%20Data%20Systems&descAlignY=58&descSize=15&descColor=7eb8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07081a,40:0a1a6e,70:1a3aff,100:060c1e&height=200&section=header&text=Om%20Vinayak%20Jade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Building%20Production%20Grade%20Agentic%20AI%20and%20Data%20Systems&descAlignY=58&descSize=15&descColor=7eb8ff" />
 
 <br/>
 
@@ -54,19 +54,19 @@ om_jade = {
 
 ## What I Build
 
-###  Generative AI & Agentic Systems
+### Generative AI & Agentic Systems
 LLM pipelines · RAG systems · Agentic workflows · Prompt engineering
 LangChain / LangGraph orchestration · Claude & OpenAI APIs · n8n automation
 
-###  Machine Learning & Data Science
+### Machine Learning & Data Science
 End-to-end ML pipelines · Feature engineering · Model evaluation & MLOps
 NLP · Deep Learning · Statistical analysis · A/B Testing · EDA
 
-###  Data Engineering & Analytics
+### Data Engineering & Analytics
 ETL/ELT pipelines · Apache Spark · Airflow · Snowflake · dbt
 SQL (Advanced) · Power BI dashboards · KPI analytics · Data modeling
 
-###  Backend & Infrastructure
+### Backend & Infrastructure
 FastAPI microservices · REST APIs · Docker · AWS · CI/CD · Vector DB / FAISS
 
 ---
