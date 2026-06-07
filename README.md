@@ -15,9 +15,9 @@
 
 ## Hi, I'm Om Jade
 
-Generative AI Engineer shipping production-grade LLM applications, RAG systems, agentic workflows, and intelligent automation systems — from rapid prototyping to full deployment.
+Generative AI Engineer shipping production-grade LLM applications, RAG systems, agentic workflows, and intelligent automation systems - from rapid prototyping to full deployment.
 
-Strong foundation in **Data Science, Machine Learning, and Analytics** — building end-to-end intelligent systems that go beyond models into real business impact.
+Strong foundation in **Data Science, Machine Learning, and Analytics** - building end-to-end intelligent systems that go beyond models into real business impact.
 
 Final-year **B.Tech in AI & Data Science** at K.K. Wagh Institute, Nashik (CGPA **9.39/10**, graduating July 2026). Currently interning as **AI/ML Software Engineer at Aqeeq Technologies**.
 
@@ -163,7 +163,6 @@ Built MediGenie — a GenAI healthcare symptom checker using LangChain, OpenAI, 
 
 - Building production-grade agentic AI systems at **Aqeeq Technologies**
 - Creating AI tech content reaching **10K+ monthly views**
-- Completing **B.Tech AI & Data Science** — graduating **July 2026**
 - Open to full-time roles in **Generative AI · Agentic AI · ML · Data Science · Data Engineering**
 
 ---
